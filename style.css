@@ -1,0 +1,97 @@
+.css-3d-text {
+    font-size: 70px;
+    color: #0f07ff;
+    font-family: Arial Black, Gadget, sans-serif;
+    text-shadow: 0px 0px 0 rgb(3,-5,243),1px 1px 0 rgb(-10,-18,230),2px 2px 0 rgb(-22,-30,218),3px 3px 0 rgb(-34,-42,206),4px 4px 0 rgb(-46,-54,194),5px 5px 0 rgb(-59,-67,181),6px 6px 0 rgb(-71,-79,169),7px 7px 0 rgb(-83,-91,157),8px 8px 0 rgb(-96,-104,144),9px 9px 0 rgb(-108,-116,132),10px 10px  0 rgb(-120,-128,120),11px 11px 10px rgba(0,0,0,0.39),11px 11px 1px rgba(0,0,0,0.5),0px 0px 10px rgba(0,0,0,.2);
+ }
+body{
+    background-color: #4cc9f0 !important;
+}
+.son{
+    width:600px;
+    height: 400px;
+    background-color: #4361ee !important;
+    padding-top: 50px;
+    border-radius: 7px;
+}
+.con{
+    padding-top:100px;
+}
+#btn {
+    background-color: #7209b7 !important;
+    border: 0;
+}
+.form-label{
+
+    font-size: 17px;
+    font-weight: 500;
+}
+.name-w{
+    font-size: 20px;
+    font-weight: 700;
+    color: yellow;
+}
+.name-n{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(47, 255, 0);
+}
+.name-o{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(255, 145, 0);
+}
+.name-oo{
+    font-size: 20px;
+    font-weight: 700;
+    color: #f72585;
+}
+.name-ba{
+    font-size: 20px;
+    font-weight: 700;
+    color: #ff0000;
+}
+.face-g  i:hover{
+
+    color: rgb(47, 255, 0);
+}
+.face-g i{
+    font-size: 50px;
+    color: rgb(47, 189, 15);
+}
+.face-o  i:hover{
+
+    color: rgb(255, 179, 0);
+}
+.face-o i{
+    font-size: 50px;
+    color: rgb(255, 149, 11);
+}
+.face-oo  i:hover{
+
+    color: #f72585;
+}
+.face-oo i{
+    font-size: 50px;
+    color: #bf0358;
+}
+
+.face-ba  i:hover{
+
+    color: #ff0000;
+}
+.face-ba i{
+    font-size: 50px;
+    color: #ed0606;
+}
+.face-w  i:hover{
+
+    color: yellow;
+}
+.face-w i{
+    font-size: 50px;
+    color: rgb(222, 222, 2);
+}
+.error{
+    color: #fff;
+}
